@@ -1,5 +1,5 @@
-<h3 align = "center"><b><u>Legend</u></b></h3>
- <p align="center">
+<h3 align = "right"><b><u>Legend</u></b></h3>
+ <p align="right">
   #cc : Community Call
 </p>
  <br>
