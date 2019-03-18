@@ -3,7 +3,7 @@ Minutes of Meeting from Every Meeting
 
 ### Date : 16th March, 2019 
 - Shift Group From Telegram as its server is not open sourced.(Which is our primary agenda) 
-  - Possible new platform : Wire Chat
+  - Options discussed : Wire Chat, IRC, Matrix/bridges, Signal
 - Discussion of Different Summer Of codes programs like GSoC, CodeHeat(FOSSAsia), RSoC etc. and to tell students about these.
 [List Of Summer Of Codes](https://github.com/tapaswenipathak/Open-Source-Internships)
 - Discussion of Orientation flow 
